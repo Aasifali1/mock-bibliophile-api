@@ -1,46 +1,130 @@
 {
-  "posts": [
+  "Bibliophile": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "cost": 398
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "cost": 458
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "cost": 421
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "cost": 187
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "The Martian",
+      "author": "Andy Weir",
+      "cost": 503
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Animal Farm",
+      "author": "George Orwell",
+      "cost": 149
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "cost": 324
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "cost": 267
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "cost": 445
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Moby Dick",
+      "author": "Herman Melville",
+      "cost": 186
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "cost": 412
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Frankenstein",
+      "author": "Mary Shelley",
+      "cost": 211
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "cost": 349
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "cost": 489
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Invisible Man",
+      "author": "Ralph Ellison",
+      "cost": 165
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "cost": 467
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "cost": 127
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "cost": 382
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Lord of the Flies",
+      "author": "William Golding",
+      "cost": 294
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "cost": 321
+    },
+    {
+      "bookStore": "Bibliophile's Delight",
+      "bookName": "Dracula",
+      "author": "Bram Stoker",
+      "cost": 176
     }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "email": "johndoe@example.com"
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "janesmith@example.com"
-    },
-    {
-      "id": 3,
-      "name": "Robert Brown",
-      "email": "robertbrown@example.com"
-    },
-    {
-      "id": 4,
-      "name": "Emily Davis",
-      "email": "emilydavis@example.com"
-    },
-    {
-      "id": 5,
-      "name": "Michael Wilson",
-      "email": "michaelwilson@example.com"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
